@@ -1,0 +1,18 @@
+{
+    "name": "rafalredlich/wordpress-composer",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "ComposerPlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "redlik",
+            "email": "ralphr@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

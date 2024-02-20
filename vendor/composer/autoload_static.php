@@ -7,14 +7,14 @@ namespace Composer\Autoload;
 class ComposerStaticInit69d9868d58416c840f27b89dc807ed37
 {
     public static $prefixLengthsPsr4 = array (
-        'R' => 
+        'C' => 
         array (
-            'Rafalredlich\\WordpressComposer\\' => 31,
+            'ComposerPlugin\\' => 15,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Rafalredlich\\WordpressComposer\\' => 
+        'ComposerPlugin\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
